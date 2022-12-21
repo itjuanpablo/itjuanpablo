@@ -43,7 +43,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/juan-pablo-56b4b5191/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-itjuanpablo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Juan Pablo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/_ojuanpablo/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-_ojuanpablo-05122A?style=flat&logo=instagram" alt="instagram"/>
