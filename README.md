@@ -52,14 +52,3 @@
  <img align="center" src="https://img.shields.io/badge/-contato.jpsft@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
 </a>
 </p>
-
-- 👋 Hi, I’m @itjuanpablo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-itjuanpablo/itjuanpablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
