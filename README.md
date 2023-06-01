@@ -8,7 +8,7 @@
 
 - 💬 Studying **JavaScript, Golang, Vue.JS, Docker, Node.JS, SQL**
 
-- 👨‍💻 More [about me](https://itjuanpablo.netlify.app/)
+<!-- - 👨‍💻 More [about me](https://itjuanpablo.netlify.app/) -->
 
 
 
