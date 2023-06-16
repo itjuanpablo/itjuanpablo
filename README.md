@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Riversoft Brasil](https://www.riversoft.com.br/)
 
-- 💬 Studying **JavaScript, Golang, Vue.JS, Docker, Node.JS, SQL**
+- 💬 Studying **JavaScript, Golang, Vue.JS, Docker, Node.JS, MySQL**
 
 <!-- - 👨‍💻 More [about me](https://itjuanpablo.netlify.app/) -->
 
