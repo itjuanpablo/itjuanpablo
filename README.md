@@ -46,7 +46,7 @@
   <img align="center" src="https://img.shields.io/badge/-Juan Pablo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/objuanpablo/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-__itjuanpablo-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-objuanpablo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:contato.jpsft@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-contato.jpsft@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
